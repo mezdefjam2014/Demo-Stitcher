@@ -1,0 +1,5 @@
+{
+  "name": "DemoStitcher",
+  "description": "A professional tool to stitch and sequence audio tracks into a seamless demo reel.",
+  "requestFramePermissions": []
+}
